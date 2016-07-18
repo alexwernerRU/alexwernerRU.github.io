@@ -15,7 +15,7 @@ RewriteRule ^moyo$ http://alexwerner.ru/tv/moyo.m3u [R=301,L]
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^alexwerner.ru$ [OR]
 RewriteCond %{HTTP_HOST} ^www.alexwerner.ru$
-RewriteRule ^tv$ http://alexwerner.ru/tv/tv.m3u [R=301,L]
+RewriteRule ^tv$ http://wernertv.ddns.net [R=301,L]
 # DO NOT REMOVE THIS LINE AND THE LINES ABOVE Savupahuja:REDIRECTID
 
 
