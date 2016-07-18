@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /tv
+Disallow: /homemedia
+Host: alexwerner.ru

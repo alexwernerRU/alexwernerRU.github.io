@@ -1,0 +1,2826 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="ZabavaSib",24 Док
+http://fe-sib.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://fe-sib.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?version=2
+#EXTINF:-1,360 Подмосковье HD
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://fe-sib.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://fe-sib.svc.iptv.rt.ru/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://fe-sib.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://fe-sib.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://fe-sib.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://fe-sib.svc.iptv.rt.ru/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://fe-sib.svc.iptv.rt.ru/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://fe-sib.svc.iptv.rt.ru/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://fe-sib.svc.iptv.rt.ru/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://fe-sib.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://fe-sib.svc.iptv.rt.ru/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://fe-sib.svc.iptv.rt.ru/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://fe-sib.svc.iptv.rt.ru/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://fe-sib.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://fe-sib.svc.iptv.rt.ru/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://fe-sib.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://fe-sib.svc.iptv.rt.ru/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://fe-sib.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://fe-sib.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://fe-sib.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://fe-sib.svc.iptv.rt.ru/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://fe-sib.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://fe-sib.svc.iptv.rt.ru/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://fe-sib.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://fe-sib.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://fe-sib.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://fe-sib.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://fe-sib.svc.iptv.rt.ru/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://fe-sib.svc.iptv.rt.ru/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://fe-sib.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://fe-sib.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://fe-sib.svc.iptv.rt.ru/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://fe-sib.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://fe-sib.svc.iptv.rt.ru/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://fe-sib.svc.iptv.rt.ru/hls/CH_TV5MONDE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ZabavaDv",24 Док
+http://fe-dv.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://fe-dv.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье HD
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://fe-dv.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://fe-dv.svc.iptv.rt.ru/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://fe-dv.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://fe-dv.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://fe-dv.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://fe-dv.svc.iptv.rt.ru/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://fe-dv.svc.iptv.rt.ru/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://fe-dv.svc.iptv.rt.ru/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://fe-dv.svc.iptv.rt.ru/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://fe-dv.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://fe-dv.svc.iptv.rt.ru/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://fe-dv.svc.iptv.rt.ru/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://fe-dv.svc.iptv.rt.ru/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://fe-dv.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://fe-dv.svc.iptv.rt.ru/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://fe-dv.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://fe-dv.svc.iptv.rt.ru/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://fe-dv.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://fe-dv.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://fe-dv.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://fe-dv.svc.iptv.rt.ru/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://fe-dv.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://fe-dv.svc.iptv.rt.ru/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://fe-dv.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://fe-dv.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://fe-dv.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://fe-dv.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://fe-dv.svc.iptv.rt.ru/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://fe-dv.svc.iptv.rt.ru/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://fe-dv.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://fe-dv.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://fe-dv.svc.iptv.rt.ru/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://fe-dv.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://fe-dv.svc.iptv.rt.ru/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://fe-dv.svc.iptv.rt.ru/hls/CH_TV5MONDE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ZabavaSth",24 Док
+http://fe-sth.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://fe-sth.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье HD
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://fe-sth.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://fe-sth.svc.iptv.rt.ru/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://fe-sth.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://fe-sth.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://fe-sth.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://fe-sth.svc.iptv.rt.ru/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://fe-sth.svc.iptv.rt.ru/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://fe-sth.svc.iptv.rt.ru/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://fe-sth.svc.iptv.rt.ru/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://fe-sth.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://fe-sth.svc.iptv.rt.ru/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://fe-sth.svc.iptv.rt.ru/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://fe-sth.svc.iptv.rt.ru/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://fe-sth.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://fe-sth.svc.iptv.rt.ru/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://fe-sth.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://fe-sth.svc.iptv.rt.ru/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://fe-sth.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://fe-sth.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://fe-sth.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://fe-sth.svc.iptv.rt.ru/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://fe-sth.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://fe-sth.svc.iptv.rt.ru/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://fe-sth.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://fe-sth.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://fe-sth.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://fe-sth.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://fe-sth.svc.iptv.rt.ru/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://fe-sth.svc.iptv.rt.ru/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://fe-sth.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://fe-sth.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://fe-sth.svc.iptv.rt.ru/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://fe-sth.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://fe-sth.svc.iptv.rt.ru/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://fe-sth.svc.iptv.rt.ru/hls/CH_TV5MONDE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ZabavaNw",24 Док
+http://fe-nw.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://fe-nw.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье HD
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://fe-nw.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://fe-nw.svc.iptv.rt.ru/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://fe-nw.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://fe-nw.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://fe-nw.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://fe-nw.svc.iptv.rt.ru/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://fe-nw.svc.iptv.rt.ru/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://fe-nw.svc.iptv.rt.ru/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://fe-nw.svc.iptv.rt.ru/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://fe-nw.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://fe-nw.svc.iptv.rt.ru/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://fe-nw.svc.iptv.rt.ru/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://fe-nw.svc.iptv.rt.ru/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://fe-nw.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://fe-nw.svc.iptv.rt.ru/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://fe-nw.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://fe-nw.svc.iptv.rt.ru/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://fe-nw.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://fe-nw.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://fe-nw.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://fe-nw.svc.iptv.rt.ru/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://fe-nw.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://fe-nw.svc.iptv.rt.ru/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://fe-nw.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://fe-nw.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://fe-nw.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://fe-nw.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://fe-nw.svc.iptv.rt.ru/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://fe-nw.svc.iptv.rt.ru/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://fe-nw.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://fe-nw.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://fe-nw.svc.iptv.rt.ru/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://fe-nw.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://fe-nw.svc.iptv.rt.ru/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://fe-nw.svc.iptv.rt.ru/hls/CH_TV5MONDE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Zabava217",24 Док
+http://217.18.135.51/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://217.18.135.51/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье HD
+
+http://217.18.135.51/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://217.18.135.51/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://217.18.135.51/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://217.18.135.51/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://217.18.135.51/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://217.18.135.51/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://217.18.135.51/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://217.18.135.51/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://217.18.135.51/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://217.18.135.51/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://217.18.135.51/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://217.18.135.51/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://217.18.135.51/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://217.18.135.51/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://217.18.135.51/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://217.18.135.51/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://217.18.135.51/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://217.18.135.51/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://217.18.135.51/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://217.18.135.51/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://217.18.135.51/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://217.18.135.51/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://217.18.135.51/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://217.18.135.51/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://217.18.135.51/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://217.18.135.51/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://217.18.135.51/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://217.18.135.51/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://217.18.135.51/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://217.18.135.51/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://217.18.135.51/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://217.18.135.51/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://217.18.135.51/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://217.18.135.51/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://217.18.135.51/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://217.18.135.51/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://217.18.135.51/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://217.18.135.51/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://217.18.135.51/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://217.18.135.51/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://217.18.135.51/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://217.18.135.51/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://217.18.135.51/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://217.18.135.51/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://217.18.135.51/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://217.18.135.51/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://217.18.135.51/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://217.18.135.51/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://217.18.135.51/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://217.18.135.51/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://217.18.135.51/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://217.18.135.51/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://217.18.135.51/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://217.18.135.51/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://217.18.135.51/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://217.18.135.51/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://217.18.135.51/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://217.18.135.51/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://217.18.135.51/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://217.18.135.51/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://217.18.135.51/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://217.18.135.51/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://217.18.135.51/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://217.18.135.51/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://217.18.135.51/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://217.18.135.51/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://217.18.135.51/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://217.18.135.51/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://217.18.135.51/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://217.18.135.51/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://217.18.135.51/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://217.18.135.51/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://217.18.135.51/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://217.18.135.51/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://217.18.135.51/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://217.18.135.51/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://217.18.135.51/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://217.18.135.51/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://217.18.135.51/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://217.18.135.51/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://217.18.135.51/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://217.18.135.51/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://217.18.135.51/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://217.18.135.51/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://217.18.135.51/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://217.18.135.51/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://217.18.135.51/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://217.18.135.51/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://217.18.135.51/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://217.18.135.51/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://217.18.135.51/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://217.18.135.51/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://217.18.135.51/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://217.18.135.51/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://217.18.135.51/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://217.18.135.51/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://217.18.135.51/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://217.18.135.51/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://217.18.135.51/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://217.18.135.51/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://217.18.135.51/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://217.18.135.51/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://217.18.135.51/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://217.18.135.51/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://217.18.135.51/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://217.18.135.51/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://217.18.135.51/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://217.18.135.51/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://217.18.135.51/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://217.18.135.51/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://217.18.135.51/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://217.18.135.51/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://217.18.135.51/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://217.18.135.51/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://217.18.135.51/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://217.18.135.51/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://217.18.135.51/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://217.18.135.51/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://217.18.135.51/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://217.18.135.51/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://217.18.135.51/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://217.18.135.51/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://217.18.135.51/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://217.18.135.51/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://217.18.135.51/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://217.18.135.51/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://217.18.135.51/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://217.18.135.51/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://217.18.135.51/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://217.18.135.51/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://217.18.135.51/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://217.18.135.51/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://217.18.135.51/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://217.18.135.51/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://217.18.135.51/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://217.18.135.51/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://217.18.135.51/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://217.18.135.51/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://217.18.135.51/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://217.18.135.51/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://217.18.135.51/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://217.18.135.51/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://217.18.135.51/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://217.18.135.51/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://217.18.135.51/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://217.18.135.51/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://217.18.135.51/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://217.18.135.51/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://217.18.135.51/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://217.18.135.51/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://217.18.135.51/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://217.18.135.51/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://217.18.135.51/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://217.18.135.51/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://217.18.135.51/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://217.18.135.51/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://217.18.135.51/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://217.18.135.51/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://217.18.135.51/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://217.18.135.51/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://217.18.135.51/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://217.18.135.51/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://217.18.135.51/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://217.18.135.51/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://217.18.135.51/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://217.18.135.51/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://217.18.135.51/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://217.18.135.51/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://217.18.135.51/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://217.18.135.51/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://217.18.135.51/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://217.18.135.51/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://217.18.135.51/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://217.18.135.51/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://217.18.135.51/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://217.18.135.51/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://217.18.135.51/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://217.18.135.51/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://217.18.135.51/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://217.18.135.51/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://217.18.135.51/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://217.18.135.51/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://217.18.135.51/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://217.18.135.51/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://217.18.135.51/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://217.18.135.51/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://217.18.135.51/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://217.18.135.51/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://217.18.135.51/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://217.18.135.51/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://217.18.135.51/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://217.18.135.51/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://217.18.135.51/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://217.18.135.51/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://217.18.135.51/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://217.18.135.51/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://217.18.135.51/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://217.18.135.51/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://217.18.135.51/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://217.18.135.51/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://217.18.135.51/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://217.18.135.51/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://217.18.135.51/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://217.18.135.51/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://217.18.135.51/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://217.18.135.51/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://217.18.135.51/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://217.18.135.51/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://217.18.135.51/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://217.18.135.51/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://217.18.135.51/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://217.18.135.51/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://217.18.135.51/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://217.18.135.51/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://217.18.135.51/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://217.18.135.51/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://217.18.135.51/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://217.18.135.51/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://217.18.135.51/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://217.18.135.51/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://217.18.135.51/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://217.18.135.51/hls/CH_TV5MONDE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ZabavaUral",24 Док
+http://fe-ural.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1,2х2
+http://fe-ural.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье HD
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1,360 Подмосковье SD
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_PODMOSKOVIE/variant.m3u8?version=2
+#EXTINF:-1,Пятый канал
+http://fe-ural.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1,8 канал
+http://fe-ural.svc.iptv.rt.ru/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,A-One
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,AMC
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MGM/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia 1 HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Hit
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1,Amazing Life
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1,BBC World News
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+#EXTINF:-1,Baby TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Boomerang
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV Europe
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1,Bridge TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Cartoon Network
+http://fe-ural.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?version=2
+#EXTINF:-1,DTX
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1,DW-TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1,Da Vinci Learning
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Europa Plus TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:-1,English Club TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
+#EXTINF:-1,Euronews
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,Eurosport
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1,Eurosport 2
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
+#EXTINF:-1,Extreme Sports
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+#EXTINF:-1,Fox
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,Fox HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_FASHIONONEHD/variant.m3u8?version=2
+#EXTINF:-1,Fashion TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8?version=2
+#EXTINF:-1,Food Network
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_FOOD/variant.m3u8?version=2
+#EXTINF:-1,Food Network HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1,Fox Life
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,France 24
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8?version=2
+#EXTINF:-1,Gulli
+http://fe-ural.svc.iptv.rt.ru/hls/CH_GULLI/variant.m3u8?version=2
+#EXTINF:-1,History
+http://fe-ural.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1,History HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,ID Xtra
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1,JimJam
+http://fe-ural.svc.iptv.rt.ru/hls/CH_JIMJAM/variant.m3u8?version=2
+#EXTINF:-1,Lifenews
+http://fe-ural.svc.iptv.rt.ru/hls/CH_LIFENEWS/variant.m3u8?version=2
+#EXTINF:-1,MCM Top
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1,MTV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=2
+#EXTINF:-1,MTV Dance
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+#EXTINF:-1,MTV Hits
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
+#EXTINF:-1,MTV Live HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,MTV Rocks
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
+#EXTINF:-1,Musicbox
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:-1,Mezzo
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Motors TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1,NHK World TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,Nautical Channel
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Nick Jr.
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1,Nickelodeon HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Ocean TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel
+http://fe-ural.svc.iptv.rt.ru/hls/CH_OUTDOOR/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Russia Today HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,RU.TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:-1,Rusong TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8?version=2
+#EXTINF:-1,Russian Musicbox
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:-1,Russia Today
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8?version=2  
+#EXTINF:-1,SET HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1,Shop24
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_SHOP24/variant.m3u8?version=2
+#EXTINF:-1,Shopping Live
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8?version=2
+#EXTINF:-1,Sony Entertainment Television
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1,Sony Turbo
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1,TLC
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1,TLC HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Action
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Comedy HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Русское кино
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TV1000RUS/variant.m3u8?version=2
+#EXTINF:-1,TV XXI Век
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1,TiJi
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TIJI/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,Travel and Adventure HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1,VH1 European
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+#EXTINF:-1,Viasat Explorer
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:-1,Viasat Golf HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat History
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:-1,World Business Channel
+http://fe-ural.svc.iptv.rt.ru/hls/CH_WBC/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://fe-ural.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Zee TV
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:-1,ZooПарк
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1,Авто Плюс
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AUTOPLUS/variant.m3u8?version=2
+#EXTINF:-1,Боец
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BOETZ/variant.m3u8?version=2
+#EXTINF:-1,Бойцовский Клуб
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2
+#EXTINF:-1,Вместе-РФ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+#EXTINF:-1,Вопросы и Ответы
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/variant.m3u8?version=2
+#EXTINF:-1,Все ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_VSETV/variant.m3u8?version=2
+#EXTINF:-1,Детский
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DETSKIJ/variant.m3u8?version=2
+#EXTINF:-1,Детский Мир/Телеклуб
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+#EXTINF:-1,Домашний
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1,Драйв
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:-1,Еврокино
+http://fe-ural.svc.iptv.rt.ru/hls/CH_EUROKINO/variant.m3u8?version=2
+#EXTINF:-1,Живи!
+http://fe-ural.svc.iptv.rt.ru/hls/CH_JIVI/variant.m3u8?version=2
+#EXTINF:-1,Живи HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,Звезда
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1,Здоровое ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1,Иллюзион +
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1,Инва Медиа ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/variant.m3u8?version=2
+#EXTINF:-1,История
+http://fe-ural.svc.iptv.rt.ru/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1,Кино ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_KINOTV/variant.m3u8?version=2
+#EXTINF:-1,КХЛ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://fe-ural.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1,Киносоюз
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Комедия ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1,Кто есть Кто
+http://fe-ural.svc.iptv.rt.ru/hls/CH_KTOESTKTO/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор
+http://fe-ural.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8?version=2
+#EXTINF:-1,Мама
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1,Мир
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1,Мир 24
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MIR24/variant.m3u8?version=2
+#EXTINF:-1,Моя Планета
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1,Муз ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1,Мульт
+http://fe-ural.svc.iptv.rt.ru/hls/CH_MULT/variant.m3u8?version=2
+#EXTINF:-1,НСТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Кино Плюс
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Наше Кино
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1,НТВ-ПЛЮС Спорт Плюс
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF:-1,Наука 2.0
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1,Наш Футбол
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:-1,Наш футбол HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+#EXTINF:-1,Наше Новое Кино
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://fe-ural.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1,О-ля-ля
+http://fe-ural.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Общественное телевидение России
+http://fe-ural.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1,Оружие
+http://fe-ural.svc.iptv.rt.ru/hls/CH_WEAPON/variant.m3u8?version=2
+#EXTINF:-1,Охота и рыбалка
+http://fe-ural.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+#EXTINF:-1,Психология21
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/variant.m3u8?version=2
+#EXTINF:-1,Парк Развлечений
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://fe-ural.svc.iptv.rt.ru/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C06_1TVHD/variant.m3u8?version=2
+#EXTINF:-1,Первый Образовательный
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+#EXTINF:-1,Перец
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Просвещение
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://fe-ural.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1,РБК-ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1,Рен-ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1,Ретро
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1,Радость Моя
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+#EXTINF:-1,Раз ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RAZTV/variant.m3u8?version=2
+#EXTINF:-1,Россия 1
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 2
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
+#EXTINF:-1,Россия 24
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1,Россия К
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Русский Бестселлер
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1,Русский Иллюзион
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1,Русский Детектив
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1,Русский Роман
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+#EXTINF:-1,Русский Экстрим
+http://fe-ural.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://fe-ural.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1,Сарафан
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1,Союз
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:-1,Спас
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1,Спорт
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страна
+http://fe-ural.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1,ТВ 3
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1,24 Техно
+http://fe-ural.svc.iptv.rt.ru/hls/CH_24TEHNO/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1,ТРО
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TRO/variant.m3u8?version=2
+#EXTINF:-1,Усадьба ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1,Успех
+http://fe-ural.svc.iptv.rt.ru/hls/CH_USPEH/variant.m3u8?version=2
+#EXTINF:-1,Феникс Плюс Кино
+http://fe-ural.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1,Футбол
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 1 HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://fe-ural.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+#EXTINF:-1,Шансон-ТВ
+http://fe-ural.svc.iptv.rt.ru/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://fe-ural.svc.iptv.rt.ru/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1,Юмор Box
+http://fe-ural.svc.iptv.rt.ru/hls/CH_HUMORTV/variant.m3u8?version=2
+#EXTINF:-1,Домашние Животные
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино Премиум HD
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1,Беларусь 24
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1,Бобёр
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1,Дом Кино
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1,СТС Love
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1,TV5 Monde
+
+http://fe-ural.svc.iptv.rt.ru/hls/CH_TV5MONDE/variant.m3u8?version=2
+
