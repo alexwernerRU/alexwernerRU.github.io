@@ -1,0 +1,46 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:ZyDaVuBydy
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^alexwerner.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www.alexwerner.ru$
+RewriteRule ^moyo$ http://alexwerner.ru/tv/moyo.m3u [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE ZyDaVuBydy:REDIRECTID
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:Savupahuja
+RewriteEngine on
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE Savupahuja:REDIRECTID
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:ubaXySaWab
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^alexwerner.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www.alexwerner.ru$
+RewriteRule ^tvlist$ http://alexwerner.ru/tv/lg.m3u [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE ubaXySaWab:REDIRECTID
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:uJaXebapyv
+RewriteEngine on
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE uJaXebapyv:REDIRECTID
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:LyqaQyZada
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^alexwerner.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www.alexwerner.ru$
+RewriteRule ^livevrn$ http://alexwerner.ru/tv/vrnlive.m3u [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE LyqaQyZada:REDIRECTID
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEID:myseVy
+ErrorDocument 404 /404.html
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE myseVy:ERRORPAGEID
+
+RewriteCond %{HTTP_HOST} ^alexwerner\.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.alexwerner\.ru$
+RewriteRule ^telek$ "http\:\/\/alexwerner\.ddns\.net\/TTV\/ttv\.m3u" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^alexwerner\.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.alexwerner\.ru$
+RewriteRule ^server$ "http\:\/\/alexwerner\.ddns\.net\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^alexwerner\.ru$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.alexwerner\.ru$
+RewriteRule ^ace$ "http\:\/\/alexwerner\.ddns\.net\:6878\/server" [R=301,L]
+

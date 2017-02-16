@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /audio
+Disallow: /home
+Host: alexwerner.ru
