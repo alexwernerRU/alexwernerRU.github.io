@@ -1,5 +1,7 @@
 User-Agent: *
 Allow: /
+Disallow: /eng.html
+Disallow: /404.html
 Disallow: /audio
 Disallow: /home
 Host: alexwerner.ru
